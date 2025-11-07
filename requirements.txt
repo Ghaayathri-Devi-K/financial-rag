@@ -11,3 +11,9 @@ numpy
 sec-edgar-downloader
 beautifulsoup4
 python-dotenv
+pymupdf
+nltk
+langchain
+textstat
+langchain-text-splitters
+
